@@ -1,17 +1,17 @@
-Bitcoin Core integration/staging tree
+Levicoin Core integration/staging tree
 =====================================
 
-https://bitcoincore.org
+https://levicoincore.org (coming soon)
 
 For an immediately usable, binary version of the Bitcoin Core software, see
-https://bitcoincore.org/en/download/.
+https://levicoincore.org/en/download/.
 
-Further information about Bitcoin Core is available in the [doc folder](/doc).
+Further information about Levicoin Core is available in the [doc folder](/doc).
 
-What is Bitcoin?
+What is Levicoin?
 ----------------
 
-Bitcoin is an experimental digital currency that enables instant payments to
+Levicoin is a digital currency that enables instant payments to
 anyone, anywhere in the world. Bitcoin uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
 out collectively by the network. Bitcoin Core is the name of open source
